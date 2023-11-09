@@ -2,6 +2,10 @@
 
 TD;LR This is foundation document template for company or group
 
+## Preview 
+
+[Preview](https://foundation-template.vercel.app/)
+
 ## Development Guidelines
 
 This is public template so please follow the guidelines below.

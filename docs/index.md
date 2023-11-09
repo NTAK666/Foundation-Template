@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: Document
-      link: /about/introduce
+      link: https://foundation-template.vercel.app/template/getting-started.html
     - theme: alt
-      text: Visit website
-      link: https://vitepress.vuejs.org/
+      text: Get Started
+      link: https://foundation-template.vercel.app/template/getting-started.html
 
 features:
   - title: Foundation
